@@ -20,4 +20,4 @@ def strip_header_ext(self, data):
     return data
 ```
 
-Needed as a workaround for a known problem in the discord library when reading audio 0 audio bytes (i.e. noone is speaking). 
+Needed as a workaround for a known problem in the discord library when reading 0 audio bytes (i.e. noone is speaking). 
