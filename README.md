@@ -1,3 +1,10 @@
+## Transcription bot
+
+Discord bot to transcribe audio chat conversations. 
+
+- multiple speakers
+- separates transcript by speaker
+
 ## Setup
 
 - in main.py, make sure to replace `add-deepgram-api-key` and `add-discord-bot-token` with your tokens.
